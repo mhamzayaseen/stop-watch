@@ -1,0 +1,21 @@
+h1{
+    
+    display: inline-block;
+    width: 50px;
+}
+body{
+    text-align: center ;
+    background-color: black;
+}
+.main{
+    border: 2px solid black;
+    width: 400px;
+    border-radius: 50%;
+    background-color: white;
+     margin-left: 400px;
+     margin-top: 200px;
+}
+.two{margin-bottom: 20px;
+
+}
+
